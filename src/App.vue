@@ -31,20 +31,20 @@ export default {
     this.tasks = [
       {
         id: 1,
-        text: "Manchester City was created",
-        day: "january 16th 2022 at 8:14pm",
+        text: "I'm reading a book tonight",
+        day: "at 20:00 oclock",
         reminder: true,
       },
       {
         id: 2,
-        text: "Barcelona was created",
-        day: "january 16th 2022 at 8:15pm",
+        text: "I'm going to school tomorrow",
+        day: "at 07:30 oclock",
         reminder: true,
       },
       {
         id: 3,
-        text: "Atletiko Madrid was created",
-        day: "january 16th 2022 at 8:16pm",
+        text: "I'll get a new bike next week",
+        day: "February 4th",
         reminder: true,
       },
     ];
